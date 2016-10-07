@@ -11,12 +11,23 @@ namespace CS_ASP_019
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         protected void submitButton_Click(object sender, EventArgs e)
         {
+            String result = String.Format("Thank you {0}, for your business", nameTextBox.Text);
 
+            if (result == "")
+            {
+                resultLabel.Text = String.Format("Please enter your information");
+            }
+            else
+            {
+                resultLabel.Text = result;
+            }
+            
+            
         }
     }
 }
