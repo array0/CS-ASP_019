@@ -7,6 +7,5 @@ c:\users\bob tabor\documents\visual studio 2013\Projects\CS-ASP_019\CS-ASP_019\o
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\bin\CS-ASP_019.dll.config
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\bin\CS-ASP_019.dll
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\bin\CS-ASP_019.pdb
-C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\obj\Debug\CS-ASP_019.csprojResolveAssemblyReference.cache
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\obj\Debug\CS-ASP_019.dll
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\obj\Debug\CS-ASP_019.pdb

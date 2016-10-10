@@ -16,11 +16,21 @@ namespace CS_ASP_019
 
         protected void submitButton_Click(object sender, EventArgs e)
         {
+            int phone = int.Parse(phoneTextBox.Text);
+            int ss = int.Parse(ssTextBox.Text);
+            
+
             String result = String.Format("Thank you {0}, for your business<br>" +
-                "Your phone number is {1}<br>" +
-                "Your social security number is {2}<br>" +
-                "The loan date you picked is {3}<br>" +
-                "The amount you want to borrow is: {4}", nameTextBox.Text, phoneTextBox.Text, ssTextBox.Text, loanDateCalendar.SelectedDate, salaryTextBox.Text);
+                "Your phone number is {1:(000)000-0000}<br>" +
+                // "Your phone number is {1}<br>" +
+                "Your social security number is {2:000-00-0000}<br>" +
+                "The loan date you picked is {3:MMM d, yyyy}<br>" +
+                "The amount you want to borrow is: {4:C}",
+                nameTextBox.Text,
+                phone,
+                ss,
+                loanDateCalendar.SelectedDate,
+                salaryTextBox.Text);
 
             if (result == "")
             {
