@@ -9,3 +9,4 @@ C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\bin\
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\bin\CS-ASP_019.pdb
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\obj\Debug\CS-ASP_019.dll
 C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\obj\Debug\CS-ASP_019.pdb
+C:\Users\Andrew\Documents\Visual Studio 2015\Projects\CS-ASP_019\CS-ASP_019\obj\Debug\CS-ASP_019.csprojResolveAssemblyReference.cache
